@@ -25,7 +25,7 @@ public class CodeAssignment {
 			wicketCounter++; 
 		 }
 	 }
-	 System.out.println("There are 4 foreign players playing in RCB"+counter);
+	 System.out.println("There are "+counter+" foreign players playing in RCB");
 	 System.out.println("Theare is/are "+wicketCounter+" wicket keeper in RCB");
 	}
 
